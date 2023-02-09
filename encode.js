@@ -58,4 +58,4 @@ function encode(input) {
   return str;
 }
 
-module.exports = encode
+module.exports = encode;
