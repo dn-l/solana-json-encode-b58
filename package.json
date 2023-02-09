@@ -1,0 +1,8 @@
+{
+  "name": "solana-json-encode-b58",
+  "version": "1.0.0",
+  "description": "Zero-dependency base58 encoder for solana-keygen generated json files",
+  "main": "index.js",
+  "keywords": ["solana"],
+  "bin": "index.js"
+}
