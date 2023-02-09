@@ -1,3 +1,5 @@
+// https://github.com/cryptocoinjs/base-x
+
 const ALPHABET = "123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz";
 
 const base = ALPHABET.length;
